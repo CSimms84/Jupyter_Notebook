@@ -1,2 +1,2 @@
 # Jupyter_Notebook
-This is introductory lesson on Jupyter Notebooks
+This is an introductory lesson on Jupyter Notebooks
